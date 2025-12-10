@@ -1,7 +1,3 @@
-Here’s a clean, professional **Markdown overview** you can place in your GitHub repository. It assumes you have two main files: a **report** and a **notebook**.
-
----
-
 # 📘 Repository Overview
 
 This repository contains the code and analysis for our study of political discourse and echo chambers on Reddit. It includes two primary components:
