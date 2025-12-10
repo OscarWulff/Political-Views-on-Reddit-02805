@@ -1,10 +1,10 @@
-# 📘 Repository Overview
+# Repository Overview
 
 This repository contains the code and analysis for our study of political discourse and echo chambers on Reddit. It includes two primary components:
 
 ---
 
-## 📄 **1. Report (`report.pdf` / `report.md`)**
+## **1. Report (`report.pdf` / `report.md`)**
 
 The report contains the full written analysis, including:
 
@@ -26,7 +26,7 @@ The report contains the full written analysis, including:
 
 ---
 
-## 🧪 **2. Notebook (`analysis.ipynb`)**
+## **2. Notebook (`analysis.ipynb`)**
 
 The Jupyter Notebook includes the full computational workflow:
 
