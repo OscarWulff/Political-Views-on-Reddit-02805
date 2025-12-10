@@ -8,7 +8,7 @@ This repository contains the code and analysis for our study of political discou
 
 The report contains the full written analysis, including:
 
-* **Introduction & Motivation** — framing online political polarization and echo chambers
+* **Introduction & signifance** — framing online political polarization and echo chambers
 * **Dataset & Preprocessing** — details on subreddit selection, user filtering, and text processing
 * **Methods**
 
